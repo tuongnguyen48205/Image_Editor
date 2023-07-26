@@ -1,5 +1,5 @@
 # Created by Tuong Bao Nguyen on the 26/07/2023
-# Created as part of a competition - creating a program in 10 minutes
+# Created as part of a competition - creating a program in 20 minutes
 
 import PIL.Image as pim
 
